@@ -1,0 +1,10 @@
+{
+  "sft_vlm.py": {
+    "source": "https://raw.githubusercontent.com/huggingface/trl/accf7383a33c618a2edc7205107120b5f32e28a3/examples/scripts/sft_vlm.py",
+    "sha256": "ad9123d6e9c1991d5157e57b16b011f374e345d2a94f01ce3ba764644a635dc9"
+  },
+  "LICENSE-TRL": {
+    "source": "https://raw.githubusercontent.com/huggingface/trl/accf7383a33c618a2edc7205107120b5f32e28a3/LICENSE",
+    "sha256": "1d90ecbf7bb80ff27ef67b7785f621480b652b82e46c72d8a5730b0db65bf355"
+  }
+}

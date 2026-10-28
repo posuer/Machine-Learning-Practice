@@ -1,0 +1,14 @@
+# Python 3.11/3.12. Install torch/torchvision separately for your CPU/CUDA runtime.
+transformers==4.51.3
+trl==0.19.1
+peft==0.15.2
+accelerate==1.6.0
+datasets==3.6.0
+huggingface-hub==0.30.2
+Pillow==11.2.1
+numpy==2.2.5
+pytest==8.3.5
+fastapi==0.115.12
+uvicorn==0.34.2
+python-multipart==0.0.20
+httpx==0.28.1
